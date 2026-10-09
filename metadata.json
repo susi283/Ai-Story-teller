@@ -1,0 +1,6 @@
+{
+  "name": "AI Photo Storyteller",
+  "description": "Turn your photos into stories worth remembering. AI image understanding, chapter sequencing, voice narration, and cinematic video creation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
